@@ -1,20 +1,12 @@
 <h1 align="center">Hi there, I'm Megan Febriana 😺</h1>
-<h3 align="center">✨ AI Developer | Deep Learning Enthusiast | Creative Coder ✨</h3>
+<h3 align="center">✨ Front End Developer | Deep Learning Enthusiast | Creative Coder ✨</h3>
 
 ---
 
 ### 🧠 About Me
-- 🎓 I'm passionate about **AI, Computer Vision, Front End, & UI/UX**  
+- 🎓 I'm passionate about ** Images Citra Processing, Computer Vision, Front End, & UI/UX**  
 - ☕ Coffee + Music + Code = The Vibes  
 - 💬 Program Study Informatics Engineering
-
----
-
-### 🧠 About Me
-- 💻 I love combining **Front-End Design** with the power of **Machine Learning**  
-- 🎨 Passionate about building clean, modern, and interactive user interfaces  
-- 🧩 Exploring **Deep Learning** and **Creative Coding**  
-- ☕ Fueled by caffeine and curiosity every day  
 
 ---
 
