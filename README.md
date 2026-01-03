@@ -23,8 +23,8 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=meganfbr&show_icons=true&theme=tokyonight" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=meganfbr&theme=tokyonight" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=meganfbr&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=meganfbr&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
